@@ -428,7 +428,7 @@ img {
       .contact__info a:hover {
         color: var(--color-accent); }
     .contact__info .social {
-      justify-content: center; }
+      justify-content: start; }
   .contact__form {
     display: flex;
     flex-direction: column;
